@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(107, 169, 204);
+}
+
+
+.i{
+    border: 5px;
+    border-color: black;
+    width: 100%;
+    height: 200px;
+    background-color: azure;
+}
+
+
+.circulo{
+    border: 4px solid #000;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 150px;
+    height: 150px;
+}
+
+.W{
+    background-color: rgb(126, 99, 226);
+    width: 50%;
+    height: 60px;
+}
+
+.a, .b, .c{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    text-align: left;  
+}
+
+.a{ background-color: #fff;}
+.b{ background-color: #fff;}
+.c{ background-color: #fff;}
+
+
+.D{
+    text-align: left;
+}
